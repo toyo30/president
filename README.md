@@ -1,2 +1,2 @@
-# president
-president
+# president-candidate-mbti
+president-candidate-mbti
